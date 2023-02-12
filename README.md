@@ -1,1 +1,1 @@
-# Robot-de-Telepresencia-con-altura-din-mica
+# Robot de telepresencia con altura dinámica
