@@ -1,2 +1,5 @@
 # Robot de telepresencia con altura dinámica
 ![500](https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Robot%20de%20telepresencia%20altura%20din%C3%A1mica.png)
+ <p align="left">
+   <img src="[https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Robot%20de%20telepresencia%20altura%20din%C3%A1mica.png)">
+   </p>
