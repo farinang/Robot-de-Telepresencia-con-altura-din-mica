@@ -22,4 +22,14 @@
    <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Sistema%20de%20transmisi%C3%B3n%20lineal.jpg">
   </p>
   
+<p align="center">
+   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Estructura%202.jpeg">
+  </p>
+  
+  <p align="center">
+   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Estructura%201.jpeg">
+  </p>
+  
+
+  
 
