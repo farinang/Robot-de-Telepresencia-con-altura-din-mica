@@ -2,12 +2,12 @@
 
 ## Diseño Conceptual
  <p align="center">
-   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Robot%20de%20telepresencia%20altura%20din%C3%A1mica.png">
+   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Robot%20de%20telepresencia%20altura%20din%C3%A1mica.png" >
   </p>
   
 ## Esquema de conexiones
 <p align="center">
-   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Diagrama%20de%20conexiones.png">
+   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Schematic_esquema%20de%20conexiones_2023-07-16.png">
   </p>
   
 ## Diseño del sistema de transmisión lineal
@@ -23,11 +23,11 @@
   </p>
   
 <p align="center">
-   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Estructura%202.jpeg">
+   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Estructura%202.jpeg" width="500" height="700">
   </p>
   
   <p align="center">
-   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Estructura%201.jpeg">
+   <img src="https://github.com/farinang/Robot-de-Telepresencia-con-altura-din-mica/blob/main/Fotos/Estructura%201.jpeg" width="500" height="700">
   </p>
   
 
